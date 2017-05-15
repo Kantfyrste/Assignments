@@ -1,7 +1,7 @@
-# assignment-2
-## Service &amp; Security assignment 2
+# assignment-3
+## Service &amp; Security assignment 3
 
-### Assignment 2
+### Assignment 3
 
 #### A description of the purpose of the application:
 
